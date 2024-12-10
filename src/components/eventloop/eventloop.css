@@ -1,0 +1,12 @@
+.timer {
+	display: flex;
+	justify-content: center;
+}
+
+.start {
+	background-color: #00ff00;
+}
+
+.stop {
+	background-color: #ff0000;
+}
