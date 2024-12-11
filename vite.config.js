@@ -1,8 +1,7 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
-// https://vite.dev/config/
 export default defineConfig({
 	plugins: [react()],
-	base: '/unkabas.github.io/',
+	base: '/react-learning/', // Укажите имя вашего репозитория (замените "react-learning" на название вашего репозитория)
 })
