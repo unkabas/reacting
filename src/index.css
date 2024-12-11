@@ -11,3 +11,10 @@
 	padding: 2rem;
 	text-align: center;
 }
+button {
+	padding: 2rem;
+	background-color: #282c34;
+	color: aliceblue;
+	cursor: pointer;
+	border: 1px solid #282c34;
+}
