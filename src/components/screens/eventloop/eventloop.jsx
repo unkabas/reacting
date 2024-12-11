@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import './eventloop.css'
 
 const EventLoop = () => {
 	const [seconds, setSeconds] = useState(0)

@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import './rest.css'
 
 const Rest = () => {
 	const [user, setUser] = useState({})

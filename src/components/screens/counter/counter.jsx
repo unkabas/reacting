@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import './counter.css'
 
 class Clicker extends Component {
 	constructor(props) {
